@@ -31,4 +31,5 @@ Interfaccia Wi-Fi compatibile con modalità monitor
 # Avvio rapido
 
 g++ k-deauther.cpp -o k-deauther
+
 sudo ./k-deauther
